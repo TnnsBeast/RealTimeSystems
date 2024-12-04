@@ -7,7 +7,9 @@
 - Improving function generator input replay to use interrupts 
 - FreeRTOS Demo with different priority tasks and semaphores
 - 3 task demo from October 8th lecture implemented in FreeRTOS
+- Simple IIR Digital Filter of an input pin replayed on LED
 - Interacting with DS1722 temperature sensor over SPI, integrated with FreeRTOS (in progress - not verified)
+- Interacting with BLE Click board (in progress - signs of life)
 
 > All projects have been created for the Curiosity PIC32MZ EF 2.0 Development Board
 > 
