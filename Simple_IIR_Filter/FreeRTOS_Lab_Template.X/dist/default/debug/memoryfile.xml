@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/FreeRTOS_Lab_Template.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>2098304</length>                 
+      <used>17180</used>                     
+      <free>2081124</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>525184</length>                 
+      <used>34116</used>                     
+      <free>491068</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
