@@ -1,0 +1,3 @@
+../Core/Src/freertos.c:82:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:127:6:StartMPUTask	2
+../Core/Src/freertos.c:152:6:StartLEDDummyTask	1
