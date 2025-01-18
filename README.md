@@ -18,3 +18,5 @@
 > [Users Guide (mainly includes on board pinout)](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/UserGuides/PIC32MZ-EF-2.0-Development-Board-Users-Guide-DS70005400.pdf)
 > 
 > [Data Sheet - PIC32MZ2048EFM144](https://ww1.microchip.com/downloads/en/DeviceDoc/PIC32MZ-Embedded-Connectivity-with-Floating-Point-Unit-Family-Data-Sheet-DS60001320H.pdf)
+
+The STM32 folder contains a few real time systems projects for STM32 (rather than PIC32) development boards. Check out the ARM alternative!
