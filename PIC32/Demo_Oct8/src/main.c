@@ -1,19 +1,20 @@
 /*******************************************************************************
   Main Source File
 
-  Company:
-    Microchip Technology Inc.
+  Author:
+    Neil Chulani
 
   File Name:
     main.c
 
   Summary:
-    This file contains the "main" function for a project.
+    This file contains the "main" function for a FreeRTOS demo project.
 
   Description:
-    This file contains the "main" function for a project.  The
-    "main" function calls the "SYS_Initialize" function to initialize the state
-    machines of all modules in the system
+    This file contains the "main" function for a FreeRTOS demo project.  The
+    "main" function creates 3 tasks to blink the different on-board LEDs at 
+    different intervals with different priorities, and then starts the FreeRTOS
+    scheduler.
  *******************************************************************************/
 
 // *****************************************************************************

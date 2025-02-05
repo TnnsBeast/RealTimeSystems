@@ -7,25 +7,25 @@ Archive member included to satisfy reference by file (symbol)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(memset.o)
                               build/default/production/_ext/404212886/stream_buffer.o (memset)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-reset.o)
-                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o (_on_reset)
+                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o (_on_reset)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-bootstrap.o)
-                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o (_on_bootstrap)
+                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o (_on_bootstrap)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-nmi-handler.o)
-                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o (_nmi_handler)
+                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o (_nmi_handler)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(pic32_data_init_core.o)
-                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o (__pic32_data_init)
+                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o (__pic32_data_init)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(pic32_init_cache.o)
-                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o (__pic32_init_cache)
+                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o (__pic32_init_cache)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(pic32_init_tlb_ebi_sqi.o)
-                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o (__pic32_tlb_init_ebi_sqi)
+                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o (__pic32_tlb_init_ebi_sqi)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(general-exception.o)
-                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o (_general_exception_context)
+                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o (_general_exception_context)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(cache-err-exception.o)
-                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o (_cache_err_exception_context)
+                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o (_cache_err_exception_context)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(simple-tlb-refill-exception.o)
-                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o (_simple_tlb_refill_exception_context)
+                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o (_simple_tlb_refill_exception_context)
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(defaultinterrupt.o)
-                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc0uOLyX.o (_DefaultInterrupt)
+                              /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc9uezFE.o (_DefaultInterrupt)
 
 Optional file vector_offset_init.o not found
 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(pic32_data_init_clear.o)
@@ -160,8 +160,8 @@ Microchip PIC32 Memory-Usage Report By Module
          476           4        2052        2532         9e4    port.o                       build/default/production/_ext/951553246/port.o
         1416           0           0        1416         588    port_asm.o                   build/default/production/_ext/951553246/port_asm.o
         1152           0           0        1152         480    data_init                    data_init
-           0         824           0         824         338    ccTkNH1k.o                   /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
-         600           0           0         600         258    ccenb9YH.o                   /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
+           0         824           0         824         338    ccZwFzj0.o                   /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
+         600           0           0         600         258    ccwGqJGw.o                   /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
          448          36           0         484         1e4    pic32_init_cache.o           libpic32.a
          460           0           0         460         1cc    main.o                       build/default/production/_ext/1360937237/main.o
          220           0           0         220          dc    general-exception.o          libpic32.a
@@ -588,31 +588,31 @@ Discarded input sections
  .reginfo       0x0000000000000000       0x18 build/default/production/_ext/1360937237/main.o
  .MIPS.abiflags
                 0x0000000000000000       0x18 build/default/production/_ext/1360937237/main.o
- .text          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
- .data          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
- .bss           0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
- .reginfo       0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
+ .text          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
+ .data          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
+ .bss           0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
+ .reginfo       0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
- .text          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccvNwTPz.o
- .data          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccvNwTPz.o
- .bss           0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccvNwTPz.o
- .reginfo       0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccvNwTPz.o
+                0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
+ .text          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccWg4wpW.o
+ .data          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccWg4wpW.o
+ .bss           0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccWg4wpW.o
+ .reginfo       0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccWg4wpW.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccvNwTPz.o
- .text          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
- .data          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
- .bss           0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
- .reginfo       0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
+                0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccWg4wpW.o
+ .text          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
+ .data          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
+ .bss           0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
+ .reginfo       0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
- .text          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc0uOLyX.o
- .data          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc0uOLyX.o
- .bss           0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc0uOLyX.o
- .reginfo       0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc0uOLyX.o
+                0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
+ .text          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc9uezFE.o
+ .data          0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc9uezFE.o
+ .bss           0x0000000000000000        0x0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc9uezFE.o
+ .reginfo       0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc9uezFE.o
  .MIPS.abiflags
-                0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc0uOLyX.o
- .discard       0x0000000000000000        0x4 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc0uOLyX.o
+                0x0000000000000000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc9uezFE.o
+ .discard       0x0000000000000000        0x4 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc9uezFE.o
  .data          0x0000000000000000        0x0 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/pic32_software_reset.o
  .bss           0x0000000000000000        0x0 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/pic32_software_reset.o
  .reginfo       0x0000000000000000       0x18 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/pic32_software_reset.o
@@ -1376,16 +1376,16 @@ END GROUP
 
 .reset          0x00000000bfc00000      0x1c4
  *(.reset)
- .reset         0x00000000bfc00000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
+ .reset         0x00000000bfc00000       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
                 0x00000000bfc00000                _reset
  *(.reset.startup)
  .reset.startup
-                0x00000000bfc00018      0x1ac /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
+                0x00000000bfc00018      0x1ac /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
                 0x00000000bfc00018                _startup
 
 .bev_excpt      0x00000000bfc00380       0x10
  *(.bev_handler)
- .bev_handler   0x00000000bfc00380       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
+ .bev_handler   0x00000000bfc00380       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
 
 .cache_init     0x00000000bfc004b0      0x1c0
  *(.cache_init)
@@ -1400,17 +1400,17 @@ END GROUP
                 0x000000009d000000       0x10
  *(.simple_tlb_refill_vector)
  .simple_tlb_refill_vector
-                0x000000009d000000       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
+                0x000000009d000000       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
 
 .cache_err_excpt
                 0x000000009d000100       0x10
  *(.cache_err_vector)
  .cache_err_vector
-                0x000000009d000100       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
+                0x000000009d000100       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
 
 .app_excpt      0x000000009d000180       0x10
  *(.gen_handler)
- .gen_handler   0x000000009d000180       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
+ .gen_handler   0x000000009d000180       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
 
 .vectors        0x000000009d000200      0x4cc
                 0x000000009d000200                . = ALIGN (0x4)
@@ -2636,33 +2636,33 @@ END GROUP
  .debug_abbrev  0x0000000000001a74       0x2e /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-bootstrap.o)
  .debug_abbrev  0x0000000000001aa2       0x31 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(defaultinterrupt.o)
 
-.debug_line     0x0000000000000000     0x61ba
+.debug_line     0x0000000000000000     0x675d
  *.elf(.debug_line)
  *(.debug_line)
- .debug_line    0x0000000000000000      0x148 build/default/production/_ext/1434821282/bsp.o
- .debug_line    0x0000000000000148      0x1b6 build/default/production/_ext/60165520/plib_clk.o
- .debug_line    0x00000000000002fe      0x334 build/default/production/_ext/1865200349/plib_evic.o
- .debug_line    0x0000000000000632      0x2bb build/default/production/_ext/1865254177/plib_gpio.o
- .debug_line    0x00000000000008ed      0x23f build/default/production/_ext/60181895/plib_tmr7.o
- .debug_line    0x0000000000000b2c       0xf7 build/default/production/_ext/163028504/xc32_monitor.o
- .debug_line    0x0000000000000c23       0x1d build/default/production/_ext/1171490990/interrupts.o
- .debug_line    0x0000000000000c40      0x367 build/default/production/_ext/1171490990/initialization.o
- .debug_line    0x0000000000000fa7      0x1e1 build/default/production/_ext/1171490990/freertos_hooks.o
- .debug_line    0x0000000000001188      0x157 build/default/production/_ext/1171490990/exceptions.o
- .debug_line    0x00000000000012df      0x28a build/default/production/_ext/1665200909/heap_1.o
- .debug_line    0x0000000000001569      0x3aa build/default/production/_ext/951553246/port.o
- .debug_line    0x0000000000001913      0x131 build/default/production/_ext/951553246/port_asm.o
- .debug_line    0x0000000000001a44      0xb95 build/default/production/_ext/404212886/stream_buffer.o
- .debug_line    0x00000000000025d9       0x1d build/default/production/_ext/404212886/croutine.o
- .debug_line    0x00000000000025f6      0x375 build/default/production/_ext/404212886/list.o
- .debug_line    0x000000000000296b      0xefc build/default/production/_ext/404212886/queue.o
- .debug_line    0x0000000000003867       0x1d build/default/production/_ext/404212886/timers.o
- .debug_line    0x0000000000003884     0x1c71 build/default/production/_ext/404212886/FreeRTOS_tasks.o
- .debug_line    0x00000000000054f5      0x687 build/default/production/_ext/404212886/event_groups.o
- .debug_line    0x0000000000005b7c      0x425 build/default/production/_ext/1360937237/main.o
- .debug_line    0x0000000000005fa1       0xa6 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-reset.o)
- .debug_line    0x0000000000006047       0xaa /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-bootstrap.o)
- .debug_line    0x00000000000060f1       0xc9 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(defaultinterrupt.o)
+ .debug_line    0x0000000000000000      0x16d build/default/production/_ext/1434821282/bsp.o
+ .debug_line    0x000000000000016d      0x1db build/default/production/_ext/60165520/plib_clk.o
+ .debug_line    0x0000000000000348      0x359 build/default/production/_ext/1865200349/plib_evic.o
+ .debug_line    0x00000000000006a1      0x2e0 build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_line    0x0000000000000981      0x264 build/default/production/_ext/60181895/plib_tmr7.o
+ .debug_line    0x0000000000000be5      0x11c build/default/production/_ext/163028504/xc32_monitor.o
+ .debug_line    0x0000000000000d01       0x1d build/default/production/_ext/1171490990/interrupts.o
+ .debug_line    0x0000000000000d1e      0x445 build/default/production/_ext/1171490990/initialization.o
+ .debug_line    0x0000000000001163      0x22b build/default/production/_ext/1171490990/freertos_hooks.o
+ .debug_line    0x000000000000138e      0x17c build/default/production/_ext/1171490990/exceptions.o
+ .debug_line    0x000000000000150a      0x2d4 build/default/production/_ext/1665200909/heap_1.o
+ .debug_line    0x00000000000017de      0x3f4 build/default/production/_ext/951553246/port.o
+ .debug_line    0x0000000000001bd2      0x131 build/default/production/_ext/951553246/port_asm.o
+ .debug_line    0x0000000000001d03      0xc04 build/default/production/_ext/404212886/stream_buffer.o
+ .debug_line    0x0000000000002907       0x1d build/default/production/_ext/404212886/croutine.o
+ .debug_line    0x0000000000002924      0x3e4 build/default/production/_ext/404212886/list.o
+ .debug_line    0x0000000000002d08      0xf6b build/default/production/_ext/404212886/queue.o
+ .debug_line    0x0000000000003c73       0x1d build/default/production/_ext/404212886/timers.o
+ .debug_line    0x0000000000003c90     0x1ce0 build/default/production/_ext/404212886/FreeRTOS_tasks.o
+ .debug_line    0x0000000000005970      0x6f6 build/default/production/_ext/404212886/event_groups.o
+ .debug_line    0x0000000000006066      0x4de build/default/production/_ext/1360937237/main.o
+ .debug_line    0x0000000000006544       0xa6 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-reset.o)
+ .debug_line    0x00000000000065ea       0xaa /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x0000000000006694       0xc9 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(defaultinterrupt.o)
 
 .debug_frame    0x0000000000000000     0x1300
  *.elf(.debug_frame)
@@ -2688,33 +2688,33 @@ END GROUP
  .debug_frame   0x00000000000012c0       0x20 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-bootstrap.o)
  .debug_frame   0x00000000000012e0       0x20 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(defaultinterrupt.o)
 
-.debug_str      0x0000000000000000     0x7c30
+.debug_str      0x0000000000000000     0x7f39
  *.elf(.debug_str)
  *(.debug_str)
- .debug_str     0x0000000000000000      0x33f build/default/production/_ext/1434821282/bsp.o
- .debug_str     0x000000000000033f      0x3f3 build/default/production/_ext/60165520/plib_clk.o
- .debug_str     0x0000000000000732      0x4a1 build/default/production/_ext/1865200349/plib_evic.o
- .debug_str     0x0000000000000bd3      0x468 build/default/production/_ext/1865254177/plib_gpio.o
- .debug_str     0x000000000000103b      0x4fc build/default/production/_ext/60181895/plib_tmr7.o
- .debug_str     0x0000000000001537      0x2de build/default/production/_ext/163028504/xc32_monitor.o
- .debug_str     0x0000000000001815      0x31e build/default/production/_ext/1171490990/interrupts.o
- .debug_str     0x0000000000001b33      0x44a build/default/production/_ext/1171490990/initialization.o
- .debug_str     0x0000000000001f7d      0x40c build/default/production/_ext/1171490990/freertos_hooks.o
- .debug_str     0x0000000000002389      0x3c2 build/default/production/_ext/1171490990/exceptions.o
- .debug_str     0x000000000000274b      0x420 build/default/production/_ext/1665200909/heap_1.o
- .debug_str     0x0000000000002b6b      0x7a0 build/default/production/_ext/951553246/port.o
- .debug_str     0x000000000000330b       0x9e build/default/production/_ext/951553246/port_asm.o
- .debug_str     0x00000000000033a9      0xaf2 build/default/production/_ext/404212886/stream_buffer.o
- .debug_str     0x0000000000003e9b      0x32e build/default/production/_ext/404212886/croutine.o
- .debug_str     0x00000000000041c9      0x46d build/default/production/_ext/404212886/list.o
- .debug_str     0x0000000000004636      0xb54 build/default/production/_ext/404212886/queue.o
- .debug_str     0x000000000000518a      0x32c build/default/production/_ext/404212886/timers.o
- .debug_str     0x00000000000054b6     0x11e0 build/default/production/_ext/404212886/FreeRTOS_tasks.o
- .debug_str     0x0000000000006696      0x798 build/default/production/_ext/404212886/event_groups.o
- .debug_str     0x0000000000006e2e      0x3d2 build/default/production/_ext/1360937237/main.o
- .debug_str     0x0000000000007200      0x35a /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-reset.o)
- .debug_str     0x000000000000755a      0x362 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-bootstrap.o)
- .debug_str     0x00000000000078bc      0x374 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(defaultinterrupt.o)
+ .debug_str     0x0000000000000000      0x364 build/default/production/_ext/1434821282/bsp.o
+ .debug_str     0x0000000000000364      0x418 build/default/production/_ext/60165520/plib_clk.o
+ .debug_str     0x000000000000077c      0x4c6 build/default/production/_ext/1865200349/plib_evic.o
+ .debug_str     0x0000000000000c42      0x48d build/default/production/_ext/1865254177/plib_gpio.o
+ .debug_str     0x00000000000010cf      0x521 build/default/production/_ext/60181895/plib_tmr7.o
+ .debug_str     0x00000000000015f0      0x303 build/default/production/_ext/163028504/xc32_monitor.o
+ .debug_str     0x00000000000018f3      0x343 build/default/production/_ext/1171490990/interrupts.o
+ .debug_str     0x0000000000001c36      0x46f build/default/production/_ext/1171490990/initialization.o
+ .debug_str     0x00000000000020a5      0x431 build/default/production/_ext/1171490990/freertos_hooks.o
+ .debug_str     0x00000000000024d6      0x3e7 build/default/production/_ext/1171490990/exceptions.o
+ .debug_str     0x00000000000028bd      0x445 build/default/production/_ext/1665200909/heap_1.o
+ .debug_str     0x0000000000002d02      0x7c5 build/default/production/_ext/951553246/port.o
+ .debug_str     0x00000000000034c7       0xc3 build/default/production/_ext/951553246/port_asm.o
+ .debug_str     0x000000000000358a      0xb17 build/default/production/_ext/404212886/stream_buffer.o
+ .debug_str     0x00000000000040a1      0x353 build/default/production/_ext/404212886/croutine.o
+ .debug_str     0x00000000000043f4      0x492 build/default/production/_ext/404212886/list.o
+ .debug_str     0x0000000000004886      0xb79 build/default/production/_ext/404212886/queue.o
+ .debug_str     0x00000000000053ff      0x351 build/default/production/_ext/404212886/timers.o
+ .debug_str     0x0000000000005750     0x1205 build/default/production/_ext/404212886/FreeRTOS_tasks.o
+ .debug_str     0x0000000000006955      0x7bd build/default/production/_ext/404212886/event_groups.o
+ .debug_str     0x0000000000007112      0x3f7 build/default/production/_ext/1360937237/main.o
+ .debug_str     0x0000000000007509      0x35a /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-reset.o)
+ .debug_str     0x0000000000007863      0x362 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(default-on-bootstrap.o)
+ .debug_str     0x0000000000007bc5      0x374 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/libpic32.a(defaultinterrupt.o)
 
 .debug_loc      0x0000000000000000     0x6704
  *.elf(.debug_loc)
@@ -2832,13 +2832,13 @@ END GROUP
  .gnu.attributes
                 0x0000000000000160       0x10 build/default/production/_ext/1360937237/main.o
  .gnu.attributes
-                0x0000000000000170       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
+                0x0000000000000170       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
  .gnu.attributes
-                0x0000000000000180       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccvNwTPz.o
+                0x0000000000000180       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccWg4wpW.o
  .gnu.attributes
-                0x0000000000000190       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
+                0x0000000000000190       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
  .gnu.attributes
-                0x00000000000001a0       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc0uOLyX.o
+                0x00000000000001a0       0x10 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc9uezFE.o
  .gnu.attributes
                 0x00000000000001b0       0x10 /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/pic32_software_reset.o
  .gnu.attributes
@@ -2939,10 +2939,10 @@ END GROUP
                 0x00000000bfc006d0                __pic32_tlb_init_values_end = ABSOLUTE (.)
                 0x00000000bfc00678                __pic32_tlb_init_values_count = 0x8
                 0x0000000000000200                _min_heap_size = 0x200
-LOAD /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
-LOAD /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccvNwTPz.o
-LOAD /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
-LOAD /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc0uOLyX.o
+LOAD /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
+LOAD /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccWg4wpW.o
+LOAD /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
+LOAD /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//cc9uezFE.o
 LOAD /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/../../../../pic32mx/lib/fpu64/pic32_software_reset.o
 LOAD /Applications/microchip/xc32/v4.30/bin/bin/../../lib/gcc/pic32mx/8.3.1/fpu64/libgcc.a
 START GROUP
@@ -2968,37 +2968,37 @@ LOAD stack
 .__vector_offset_BF810540_data
                 0x00000000bf810540      0x1b0
  .__vector_offset_BF810540_data
-                0x00000000bf810540      0x1b0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
+                0x00000000bf810540      0x1b0 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
 
 .__vector_offset_BF8106F4_data
                 0x00000000bf8106f4      0x148
  .__vector_offset_BF8106F4_data
-                0x00000000bf8106f4      0x148 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
+                0x00000000bf8106f4      0x148 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
 
 .__vector_offset_BF810874_data
                 0x00000000bf810874       0x18
  .__vector_offset_BF810874_data
-                0x00000000bf810874       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
+                0x00000000bf810874       0x18 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
 
 .__vector_offset_BF810858_data
                 0x00000000bf810858       0x14
  .__vector_offset_BF810858_data
-                0x00000000bf810858       0x14 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
+                0x00000000bf810858       0x14 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
 
 .__vector_offset_BF810840_data
                 0x00000000bf810840        0xc
  .__vector_offset_BF810840_data
-                0x00000000bf810840        0xc /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
+                0x00000000bf810840        0xc /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
 
 .__vector_offset_BF810850_data
                 0x00000000bf810850        0x4
  .__vector_offset_BF810850_data
-                0x00000000bf810850        0x4 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
+                0x00000000bf810850        0x4 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
 
 .__vector_offset_BF810894_data
                 0x00000000bf810894        0x4
  .__vector_offset_BF810894_data
-                0x00000000bf810894        0x4 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccTkNH1k.o
+                0x00000000bf810894        0x4 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccZwFzj0.o
 
 .data.uxTopUsedPriority
                 0x0000000080000070        0x4
@@ -3240,7 +3240,7 @@ LOAD stack
 .text.main_entry
                 0x000000009d001f24       0x54
  .text.main_entry
-                0x000000009d001f24       0x54 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccenb9YH.o
+                0x000000009d001f24       0x54 /var/folders/xs/9gsq6zg16v51t8kfg4fq85x40000gn/T//ccwGqJGw.o
                 0x000000009d001f58                __crt0_exit
 
 .text.vP1Task   0x000000009d001f78       0x4c
